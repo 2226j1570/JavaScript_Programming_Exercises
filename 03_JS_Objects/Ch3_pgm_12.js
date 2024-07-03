@@ -7,6 +7,13 @@ var post = {
 	created : "2015-06-21",
 	body : "You will not believe where I just woke up!! Only on a comet..."
 };
+var post = {
+	id : 2,
+	title : "The white tiger",
+	author : "Arvind Adiga",
+	created : "2008-03-21",
+	body : "You will not believe where I just woke up!! Only on a comet..."
+};
 
 
 
