@@ -1,7 +1,7 @@
 // A book as an object
 
 var book;
-
+var book2;
 book = {
     title : "The Hobbit",
     author : "J. R. R. Tolkien",
@@ -9,7 +9,13 @@ book = {
 };
 
 console.log(book);
+book2={
+    title:"The Suitable Boy",
+    author:"Vikram Seth",
+    published:1993
+};
 
+console.log(book2);
 
 
 /* Further Adventures
